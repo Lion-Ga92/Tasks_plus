@@ -56,6 +56,11 @@ class tasks(object):
         task_file = open("task_list.txt", "a+")
         task_file.write(completed_tasks)
 
+print("hi")
+
+
+
+
 
 
 
