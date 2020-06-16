@@ -19,4 +19,5 @@ You still need to, Cook
 
 
 ok i want to see what would happen when i upload an entire local git but only work on one file at a time
+yea i am dumb, now i want to see what happens when i edit to files at once and push the entire local git upstream
 

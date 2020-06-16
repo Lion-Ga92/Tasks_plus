@@ -55,7 +55,7 @@ class tasks(object):
 
         task_file = open("task_list.txt", "a+")
         task_file.write(completed_tasks)
-print("Holy shit i am a dumb, really really dumb and the system is smarter than me")
+print("Holy shit i am a dumb read txt file")
 
 
 
